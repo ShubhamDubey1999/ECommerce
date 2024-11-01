@@ -1,6 +1,6 @@
 # E-commerce Application
 
-This is a robust e-commerce application built on a microservices architecture, utilizing the CQRS (Command Query Responsibility Segregation) pattern. Developed using .NET 8, this project demonstrates a scalable and maintainable approach to online retail.
+This is a robust e-commerce application built on a microservices architecture, utilizing the CQRS (Command Query Responsibility Segregation) pattern. Developed using .NET 8, docker, kubernetes, helm charts, service mesh and angular 18, this project demonstrates a scalable and maintainable approach to online retail.
 
 ## Architecture Overview
 
